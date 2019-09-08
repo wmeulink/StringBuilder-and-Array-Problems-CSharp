@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromePermutation", "Pa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneAway", "OneAway\OneAway.csproj", "{A0602CD9-91DB-4097-948A-F8E902AE8A4D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompression", "StringCompression\StringCompression.csproj", "{245C8AA8-C4A6-446A-A70E-F25A8765A876}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
