@@ -9,7 +9,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PremutationCheck", "Premuta
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "URLify", "URLify\URLify.csproj", "{21F53BED-DB1C-4D07-9F07-FD2283D56499}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromePermutation", "PalindromePermutation\PalindromePermutation.csproj", "{CAE717D6-DE02-46D0-B0AA-4FCFD3212092}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PalindromePermutation", "PalindromePermutation\PalindromePermutation.csproj", "{CAE717D6-DE02-46D0-B0AA-4FCFD3212092}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneAway", "OneAway\OneAway.csproj", "{A0602CD9-91DB-4097-948A-F8E902AE8A4D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{CAE717D6-DE02-46D0-B0AA-4FCFD3212092}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CAE717D6-DE02-46D0-B0AA-4FCFD3212092}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CAE717D6-DE02-46D0-B0AA-4FCFD3212092}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0602CD9-91DB-4097-948A-F8E902AE8A4D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
