@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OneAway", "OneAway\OneAway.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringCompression", "StringCompression\StringCompression.csproj", "{245C8AA8-C4A6-446A-A70E-F25A8765A876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateMatrix", "RotateMatrix\RotateMatrix.csproj", "{FEC4331E-1F0F-475F-9D7C-1431159F264F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{245C8AA8-C4A6-446A-A70E-F25A8765A876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEC4331E-1F0F-475F-9D7C-1431159F264F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEC4331E-1F0F-475F-9D7C-1431159F264F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEC4331E-1F0F-475F-9D7C-1431159F264F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEC4331E-1F0F-475F-9D7C-1431159F264F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
